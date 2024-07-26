@@ -3,7 +3,7 @@
 
 Il progetto consiste nel creare un software gestionale per un negozio vegano.
 
-Il software deve avere le seguenti funzionalità:
+Il software ha le seguenti funzionalità:
 
 -Registrare nuovi prodotti, con nome, quantità, prezzo di vendita e prezzo di acquisto.  
 -Elencare tutti i prodotti presenti.  
